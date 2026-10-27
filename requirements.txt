@@ -1,0 +1,3 @@
+pandas>=1.5
+rapidfuzz>=3.0
+pytest
